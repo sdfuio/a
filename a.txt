@@ -43,5 +43,6 @@ http://free.nchc.org.tw/linuxmint/isos/stable/21/linuxmint-21-xfce-64bit.iso
 # rt500mi
 https://nttwest.ssdl1.smartstream.ne.jp/nttwest/flets/kiki/download/flets/rt500mi/PRRTRV-5X0MI08000004.bin
 
-
+# windows10
+https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Japanese_x64.iso?t=ef5af153-4d01-448e-829e-70e90846c070&e=1670667314&h=6553959296a8832e6753bfebed1247d3835efe799187c4cd9bfc159b9cda7a66
 
