@@ -40,7 +40,8 @@ https://ftp.heanet.ie/mirrors/linuxmint.com/stable/21/sha256sum.txt.gpg
 http://free.nchc.org.tw/linuxmint/isos/stable/21/linuxmint-21-xfce-64bit.iso
 
 
-
+# rt500mi
+https://nttwest.ssdl1.smartstream.ne.jp/nttwest/flets/kiki/download/flets/rt500mi/PRRTRV-5X0MI08000004.bin
 
 
 
