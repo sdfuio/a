@@ -64,6 +64,8 @@ sha256sum -c *-CHECKSUM
 # puppy linux
 wget https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso
 wget https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso.md5.txt
+# 6a45e7a305b7d3172ebd9eab5ca460e4  fossapup64-9.5.iso
+# eb7dedca39f4107c7c6ee44dd705d393  S15Pup64-22.12+1-T.iso
 
 
 
