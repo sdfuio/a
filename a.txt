@@ -61,6 +61,12 @@ sha256sum -c *-CHECKSUM
 # 5dde64bce74cf052cba5361957e81b0fe47a044c63d2a7315cdac7cd._openpgpkey.fedoraproject.org
 
 
+# puppy linux
+wget https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso
+wget https://distro.ibiblio.org/puppylinux/puppy-fossa/fossapup64-9.5.iso.md5.txt
+
+
+
 # rt500mi
 wget https://nttwest.ssdl1.smartstream.ne.jp/nttwest/flets/kiki/download/flets/rt500mi/PRRTRV-5X0MI08000004.bin
 
